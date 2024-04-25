@@ -56,4 +56,4 @@ if st.button("Predict type of Iris"):
     st.success(f"The predicted species is: {result[0]}")
 
 st.text('')
-st.markdown('`Initial code was developed by` [Varunkumar G K]')
+st.markdown('`Initial code was developed by` [VarunKumar G K]')
