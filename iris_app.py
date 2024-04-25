@@ -41,7 +41,7 @@ accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy}")
 
 # *********** STREAMLIT WEB APP ************************
-st.title('Classifying Iris Flowers')
+st.title('Classifying Iris Flowers by Varun')
 
 # Input sliders for the plant features
 st.header("Plant Features")
